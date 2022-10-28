@@ -29,6 +29,15 @@ Part 1:
 2. https://www.gutenberg.org/cache/epub/345/pg345-images.html
 3. https://www.gutenberg.org/cache/epub/1250/pg1250-images.html
 
+Part 2:
+I have chosen to make a autobiography page for a random stranger using fake information.
+
+Sources: 
+- picture credit: https://unsplash.com/photos/L2e2NVV9ul4
+- random linkedin job postings for the information about the job history
+- design inspiration from https://dribbble.com/shots/16473402/attachments/11255842?mode=media
+
+
 HTML modifications
 ==================
 
